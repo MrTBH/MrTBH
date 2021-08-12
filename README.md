@@ -2,3 +2,7 @@
 HELLO? I am MrTBH..
 
 Just Do It?
+
+public person: unknown = this;
+
+
