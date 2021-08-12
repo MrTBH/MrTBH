@@ -3,6 +3,6 @@ HELLO? I am MrTBH..
 
 Just Do It?
 
-public person: unknown = this;
+         public person: unknown = this;
 
 
