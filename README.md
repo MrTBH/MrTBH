@@ -3,8 +3,9 @@ HELLO? I am MrTBH..
 
 Just Do It?
 
-    if(if (!message.content.startsWith(mrtbh)) return;
-                                                   message.channel.send(Just Do It)
+    if((!message.content.startsWith(mrtbh)) return;
+    
+Ya... I am MrTBH
         
 
 
