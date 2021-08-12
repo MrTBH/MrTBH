@@ -3,6 +3,8 @@ HELLO? I am MrTBH..
 
 Just Do It?
 
-         public person: unknown = this;
+    if(if (!message.content.startsWith(mrtbh)) return;
+                                                   message.channel.send(Just Do It)
+        
 
 
